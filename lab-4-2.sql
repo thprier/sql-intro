@@ -24,4 +24,4 @@
 -- | Billy      | Hamilton  |
 -- | Ian        | Happ      |
 
-
+SELECT players.id, players.first_name, players.last_name, 
